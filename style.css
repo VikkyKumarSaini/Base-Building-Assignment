@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #242582;
+    color: #fff;
+}
+.BaseBuildingAssignmet{
+    width: 50%;
+    /* height: 100vh; */
+    margin: 15px auto;
+    border: 2px solid cyan;
+    background-color: black;
+}
+h1{
+    margin: 15px 15px;
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+h2{
+    margin: 15px 15px;
+    background-color: aqua;
+    color: black;
+    padding: 5px;
+    border-radius: 16px;
+    text-align: center;
+}
+p{
+    padding: 12px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+span{
+    color:blue;
+}
